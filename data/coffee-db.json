@@ -1,0 +1,676 @@
+[
+  {
+    "id": "ethiopia-yirgacheffe",
+    "name": "エチオピア イルガチェフェ",
+    "origin": "エチオピア",
+    "roast_level": "浅煎り",
+    "flavor_profile": {
+      "acidity": 5,
+      "bitterness": 1,
+      "sweetness": 4,
+      "body": 2,
+      "notes": [
+        "フローラル",
+        "フルーティ",
+        "レモンティー",
+        "華やか"
+      ]
+    },
+    "vibe_tags": [
+      "refreshing",
+      "morning",
+      "sunny",
+      "creative",
+      "wake-up",
+      "爽やか",
+      "朝",
+      "晴れ",
+      "創造的",
+      "クリエイティブ",
+      "スッキリ",
+      "あさ",
+      "おき",
+      "morning jazz",
+      "アイデア",
+      "ひらめき",
+      "明るい"
+    ],
+    "music_pairing": "Morning Jazz",
+    "spotify_id": "37i9dQZF1DX7WJ4yWOnujs",
+    "brewing_recipe": {
+      "method": "ペーパードリップ (V60)",
+      "grind": "中細挽き",
+      "dose": "12g",
+      "water_temp": "88°C",
+      "pour_speed": "速め",
+      "notes": "華やかな香りを引き出すため、高めの温度でサッと抽出します。"
+    },
+    "description": "紅茶のような華やかさと、レモンのような爽やかな酸味。晴れた朝、新しい一日を始めるときに最適です。"
+  },
+  {
+    "id": "indonesia-mandheling",
+    "name": "インドネシア マンデリン",
+    "origin": "インドネシア",
+    "roast_level": "深煎り",
+    "flavor_profile": {
+      "acidity": 1,
+      "bitterness": 5,
+      "sweetness": 3,
+      "body": 5,
+      "notes": [
+        "アーシー",
+        "スパイシー",
+        "ハーブ",
+        "ダークチョコレート"
+      ]
+    },
+    "vibe_tags": [
+      "deep",
+      "relaxing",
+      "rainy",
+      "night",
+      "focus",
+      "meditation",
+      "深い",
+      "リラックス",
+      "雨",
+      "夜",
+      "集中",
+      "落ち着く",
+      "深夜",
+      "ダーク",
+      "静か",
+      "勉強",
+      "作業"
+    ],
+    "music_pairing": "Lofi Hip Hop",
+    "spotify_id": "37i9dQZF1DWWQRwui0ExPn",
+    "brewing_recipe": {
+      "method": "ペーパードリップ (またはフレンチプレス)",
+      "grind": "中挽き",
+      "dose": "15g (多め)",
+      "water_temp": "83°C",
+      "pour_speed": "ゆっくり",
+      "notes": "低温でじっくりと時間をかけて、とろりとした濃厚なコクを引き出します。"
+    },
+    "description": "大地のような力強いコクと苦味。雨の夜や、深く集中したい静かな時間に寄り添う一杯です。"
+  },
+  {
+    "id": "brazil-santos",
+    "name": "ブラジル サントス",
+    "origin": "ブラジル",
+    "roast_level": "中煎り",
+    "flavor_profile": {
+      "acidity": 2,
+      "bitterness": 2,
+      "sweetness": 4,
+      "body": 3,
+      "notes": [
+        "ナッツ",
+        "チョコレート",
+        "キャラメル",
+        "バランス"
+      ]
+    },
+    "vibe_tags": [
+      "balanced",
+      "daily",
+      "work",
+      "comfort",
+      "casual",
+      "バランス",
+      "日常",
+      "仕事",
+      "安心",
+      "いつもの",
+      "ナッツ",
+      "定番",
+      "休憩",
+      "ホッと"
+    ],
+    "music_pairing": "Bossa Nova",
+    "spotify_id": "37i9dQZF1DX4sWSpwq3LiO",
+    "brewing_recipe": {
+      "method": "ペーパードリップ",
+      "grind": "中細挽き",
+      "dose": "10g",
+      "water_temp": "90°C",
+      "pour_speed": "普通",
+      "notes": "誰にでも愛されるバランスの良い味。標準的な抽出で豆の甘みを引き出します。"
+    },
+    "description": "ナッツのような香ばしさと優しい甘み。仕事中や休憩時間、どんなシーンにも馴染む「安心できる」味です。"
+  },
+  {
+    "id": "guatemala-antigua",
+    "name": "グアテマラ アンティグア",
+    "origin": "グアテマラ",
+    "roast_level": "中深煎り",
+    "flavor_profile": {
+      "acidity": 3,
+      "bitterness": 3,
+      "sweetness": 5,
+      "body": 4,
+      "notes": [
+        "スモーキー",
+        "スパイス",
+        "ココア",
+        "キレ"
+      ]
+    },
+    "vibe_tags": [
+      "rich",
+      "dessert",
+      "afternoon",
+      "sweet",
+      "luxury",
+      "リッチ",
+      "デザート",
+      "午後",
+      "甘い",
+      "甘味",
+      "ご褒美",
+      "スイーツ",
+      "3時",
+      "まったり",
+      "贅沢"
+    ],
+    "music_pairing": "Soul / R&B",
+    "spotify_id": "37i9dQZF1DX6VDO8a6cQME",
+    "brewing_recipe": {
+      "method": "ペーパードリップ",
+      "grind": "中細挽き",
+      "dose": "13g",
+      "water_temp": "92°C",
+      "pour_speed": "やや速め",
+      "notes": "少し高めの温度で、香ばしさと甘みのレイヤーを余すことなく抽出します。"
+    },
+    "description": "ココアのようなほろ苦さと、後から広がる甘み。まるでデザートを食べているような、リッチな午後のひとときを。"
+  },
+  {
+    "id": "colombia-supremo",
+    "name": "コロンビア スプレモ",
+    "origin": "コロンビア",
+    "roast_level": "中煎り",
+    "flavor_profile": {
+      "acidity": 3,
+      "bitterness": 3,
+      "sweetness": 3,
+      "body": 3,
+      "notes": [
+        "フルーティ",
+        "キャラメル",
+        "マイルド",
+        "円熟"
+      ]
+    },
+    "vibe_tags": [
+      "mild",
+      "smooth",
+      "anytime",
+      "friendly",
+      "reading",
+      "マイルド",
+      "読書",
+      "穏やか",
+      "やさしい",
+      "読み物",
+      "本",
+      "ゆっくり",
+      "静寂"
+    ],
+    "music_pairing": "Acoustic Pop",
+    "spotify_id": "37i9dQZF1DX4E3UdUs7fUx",
+    "brewing_recipe": {
+      "method": "ペーパードリップ",
+      "grind": "中細挽き",
+      "dose": "10g",
+      "water_temp": "85°C",
+      "pour_speed": "普通",
+      "notes": "雑味を出さないよう丁寧にお湯を注ぎ、滑らかな口当たりを作ります。"
+    },
+    "description": "突出した癖がなく、どこまでもマイルド。読書をしながら、ゆっくりと冷めていく過程も楽しめる一杯です。"
+  },
+  {
+    "id": "kenya-aa",
+    "name": "ケニア AA",
+    "origin": "ケニア",
+    "roast_level": "中浅煎り",
+    "flavor_profile": {
+      "acidity": 5,
+      "bitterness": 2,
+      "sweetness": 4,
+      "body": 4,
+      "notes": [
+        "ベリー",
+        "ワイン",
+        "カシス",
+        "ジューシー"
+      ]
+    },
+    "vibe_tags": [
+      "powerful",
+      "bright",
+      "adventure",
+      "summer",
+      "energetic",
+      "パワフル",
+      "冒険",
+      "夏",
+      "エネルギッシュ",
+      "元気",
+      "やる気",
+      "酸味",
+      "リフレッシュ",
+      "気合"
+    ],
+    "music_pairing": "Afrobeat / Funk",
+    "spotify_id": "37i9dQZF1DWYkaDif7Ztbp",
+    "brewing_recipe": {
+      "method": "ペーパードリップ",
+      "grind": "中挽き",
+      "dose": "12g",
+      "water_temp": "93°C",
+      "pour_speed": "普通",
+      "notes": "ジューシーな酸味を最大限に活かすため、少し粗めに挽いて高温で抽出します。"
+    },
+    "description": "カシスやベリーを思わせる圧倒的な果実味。エネルギッシュに活動したい時や、気分を一新したい時に。"
+  },
+  {
+    "id": "panama-geisha",
+    "name": "パナマ ゲイシャ",
+    "origin": "パナマ",
+    "roast_level": "浅煎り",
+    "flavor_profile": {
+      "acidity": 4,
+      "bitterness": 1,
+      "sweetness": 5,
+      "body": 3,
+      "notes": [
+        "ジャスミン",
+        "ベルガモット",
+        "蜂蜜",
+        "ティーライク"
+      ]
+    },
+    "vibe_tags": [
+      "elegant",
+      "special",
+      "meditative",
+      "luxury",
+      "floral",
+      "特別",
+      "優雅",
+      "瞑想",
+      "ご褒美",
+      "最高級",
+      "フローラル",
+      "スペシャル",
+      "高級",
+      "記念日"
+    ],
+    "music_pairing": "Classical Piano",
+    "spotify_id": "37i9dQZF1DX4s3V2rTswzO",
+    "brewing_recipe": {
+      "method": "ペーパードリップ",
+      "grind": "中挽き",
+      "dose": "12g",
+      "water_temp": "88°C",
+      "pour_speed": "ゆっくり",
+      "notes": "繊細な香りを逃さないよう、優しく静かにお湯を注ぎます。"
+    },
+    "description": "「コーヒーの女王」。ジャスミンのようなフローラルな香りと、蜂蜜のような甘さ。特別な日のための至高の一杯。"
+  },
+  {
+    "id": "yemen-mocha-mattari",
+    "name": "イエメン モカ・マタリ",
+    "origin": "イエメン",
+    "roast_level": "中深煎り",
+    "flavor_profile": {
+      "acidity": 3,
+      "bitterness": 3,
+      "sweetness": 5,
+      "body": 4,
+      "notes": [
+        "ワイニー",
+        "スパイス",
+        "ドライフルーツ",
+        "複雑"
+      ]
+    },
+    "vibe_tags": [
+      "mysterious",
+      "historic",
+      "evening",
+      "romantic",
+      "complex",
+      "神秘的",
+      "歴史",
+      "夜",
+      "ロマンチック",
+      "複雑",
+      "ディナー",
+      "ワイン",
+      "デート",
+      "大人"
+    ],
+    "music_pairing": "Jazz Fusion",
+    "spotify_id": "37i9dQZF1DX0SM0LYsmbMT",
+    "brewing_recipe": {
+      "method": "ネルドリップ (なければペーパー)",
+      "grind": "中細挽き",
+      "dose": "12g",
+      "water_temp": "90°C",
+      "pour_speed": "点滴法",
+      "notes": "最初の一滴を大切に。濃厚で複雑な香りを少しずつ引き出します。"
+    },
+    "description": "赤ワインのような芳醇さと、スパイスの余韻。歴史を感じさせる複雑な味わいは、ロマンチックな夜にぴったりです。"
+  },
+  {
+    "id": "costarica-honey",
+    "name": "コスタリカ ハニープロセス",
+    "origin": "コスタリカ",
+    "roast_level": "中煎り",
+    "flavor_profile": {
+      "acidity": 3,
+      "bitterness": 2,
+      "sweetness": 5,
+      "body": 3,
+      "notes": [
+        "蜂蜜",
+        "アプリコット",
+        "まろやか",
+        "スイート"
+      ]
+    },
+    "vibe_tags": [
+      "sweet",
+      "gentle",
+      "afternoon",
+      "honey",
+      "happy",
+      "甘い",
+      "優しい",
+      "ハチミツ",
+      "幸せ",
+      "午後",
+      "まったり",
+      "おやつ",
+      "ほっこり"
+    ],
+    "music_pairing": "Acoustic Folk",
+    "spotify_id": "37i9dQZF1DX6z20IXmBjWI",
+    "brewing_recipe": {
+      "method": "ペーパードリップ",
+      "grind": "中細挽き",
+      "dose": "12g",
+      "water_temp": "88°C",
+      "pour_speed": "普通",
+      "notes": "ハニープロセス特有の甘みを引き出すため、温度は高すぎず。ゆっくりと落とします。"
+    },
+    "description": "果肉の甘みを豆に移す「ハニープロセス」製法。蜂蜜のようなとろっとした甘さと、アプリコットのような風味。"
+  },
+  {
+    "id": "tanzania-kilimanjaro",
+    "name": "タンザニア キリマンジャロ",
+    "origin": "タンザニア",
+    "roast_level": "中深煎り",
+    "flavor_profile": {
+      "acidity": 4,
+      "bitterness": 3,
+      "sweetness": 3,
+      "body": 4,
+      "notes": [
+        "ワイルド",
+        "シトラス",
+        "スパイシー",
+        "力強い"
+      ]
+    },
+    "vibe_tags": [
+      "wild",
+      "sharp",
+      "adventure",
+      "strong",
+      "active",
+      "ワイルド",
+      "キレ",
+      "強い",
+      "冒険",
+      "活動的",
+      "シャキッ",
+      "目覚め",
+      "登山"
+    ],
+    "music_pairing": "African Jazz",
+    "spotify_id": "37i9dQZF1DX70RN3TfwwCh",
+    "brewing_recipe": {
+      "method": "フレンチプレス",
+      "grind": "粗挽き",
+      "dose": "16g",
+      "water_temp": "94°C",
+      "pour_speed": "浸漬4分",
+      "notes": "フレンチプレスで油分ごと抽出することで、野性味あふれる力強さをダイレクトに味わえます。"
+    },
+    "description": "アフリカ最高峰の山麓で育った、野性味のある酸味とコク。眠気覚ましや、気合を入れたい時に背中を押してくれる一杯。"
+  },
+  {
+    "id": "hawaii-kona",
+    "name": "ハワイ コナ",
+    "origin": "ハワイ (アメリカ)",
+    "roast_level": "中深煎り",
+    "flavor_profile": {
+      "acidity": 3,
+      "bitterness": 1,
+      "sweetness": 4,
+      "body": 3,
+      "notes": [
+        "トロピカル",
+        "バニラ",
+        "ナッツ",
+        "スムース"
+      ]
+    },
+    "vibe_tags": [
+      "vacation",
+      "resort",
+      "sunset",
+      "relaxing",
+      "tropical",
+      "バカンス",
+      "リゾート",
+      "夕日",
+      "トロピカル",
+      "癒し",
+      "ハワイ",
+      "贅沢",
+      "海",
+      "南国"
+    ],
+    "music_pairing": "Hawaiian Slack Key",
+    "spotify_id": "37i9dQZF1DX7abG5S14d5V",
+    "brewing_recipe": {
+      "method": "ペーパードリップ",
+      "grind": "中挽き",
+      "dose": "12g",
+      "water_temp": "88°C",
+      "pour_speed": "普通",
+      "notes": "南国の風を感じるような、滑らかでクリアな味を目指して丁寧に抽出します。"
+    },
+    "description": "南国の楽園が育んだ、バニラやナッツのような甘い香り。リゾート気分に浸りたい、贅沢なリラックスタイムに。"
+  },
+  {
+    "id": "vietnam-robusta",
+    "name": "ベトナム ロブスタ (練乳入り)",
+    "origin": "ベトナム",
+    "roast_level": "極深煎り",
+    "flavor_profile": {
+      "acidity": 0,
+      "bitterness": 5,
+      "sweetness": 5,
+      "body": 5,
+      "notes": [
+        "パンチ",
+        "香ばしい",
+        "チョコレート",
+        "濃厚"
+      ]
+    },
+    "vibe_tags": [
+      "energy",
+      "street",
+      "chaotic",
+      "tired",
+      "sweet",
+      "元気",
+      "カオス",
+      "屋台",
+      "疲れ",
+      "甘いもの",
+      "パンチ",
+      "アジア",
+      "熱気",
+      "気力"
+    ],
+    "music_pairing": "Asian City Pop",
+    "spotify_id": "37i9dQZF1DX8qqidp54e52",
+    "brewing_recipe": {
+      "method": "ベトナムコーヒーフィルター (カフェ・フィン)",
+      "grind": "細挽き",
+      "dose": "15g",
+      "water_temp": "95°C",
+      "pour_speed": "超ゆっくり",
+      "notes": "グラスの底に練乳をたっぷりと。ポタポタと落ちる濃厚な滴を待ちながら、現地の喧騒に思いを馳せて。"
+    },
+    "description": "ガツンとくる苦味と、練乳の暴力的な甘さ。疲れた脳みそを強制的に再起動させる、エネルギッシュな一杯。"
+  },
+  {
+    "id": "nicaragua-java",
+    "name": "ニカラグア ジャバニカ",
+    "origin": "ニカラグア",
+    "roast_level": "中浅煎り",
+    "flavor_profile": {
+      "acidity": 3,
+      "bitterness": 2,
+      "sweetness": 4,
+      "body": 3,
+      "notes": [
+        "レモン",
+        "フローラル",
+        "クリーン",
+        "繊細"
+      ]
+    },
+    "vibe_tags": [
+      "clean",
+      "fresh",
+      "breeze",
+      "simple",
+      "morning",
+      "透明感",
+      "風",
+      "シンプル",
+      "爽快",
+      "クリーン",
+      "洗練",
+      "白"
+    ],
+    "music_pairing": "Indie Folk",
+    "spotify_id": "37i9dQZF1DX26DKvjp0s9M",
+    "brewing_recipe": {
+      "method": "ペーパードリップ",
+      "grind": "中細挽き",
+      "dose": "12g",
+      "water_temp": "90°C",
+      "pour_speed": "速め",
+      "notes": "特徴的な透明感（クリーンカップ）を損なわないよう、スムーズに抽出します。"
+    },
+    "description": "ジャワ島原産の「ジャバ」種がニカラグアで進化した希少種。透き通るようなクリーンさと、レモンのような繊細さが心洗われるよう。"
+  },
+  {
+    "id": "honduras-highgrown",
+    "name": "ホンジュラス 高地栽培",
+    "origin": "ホンジュラス",
+    "roast_level": "中深煎り",
+    "flavor_profile": {
+      "acidity": 3,
+      "bitterness": 3,
+      "sweetness": 4,
+      "body": 4,
+      "notes": [
+        "キャラメル",
+        "オレンジ",
+        "バランス",
+        "しっかり"
+      ]
+    },
+    "vibe_tags": [
+      "solid",
+      "trust",
+      "mountain",
+      "earth",
+      "classic",
+      "堅実",
+      "山",
+      "土",
+      "クラシック",
+      "しっかり",
+      "信頼",
+      "どっしり"
+    ],
+    "music_pairing": "Classic Rock",
+    "spotify_id": "37i9dQZF1DWXRqgorJj26U",
+    "brewing_recipe": {
+      "method": "ペーパードリップ",
+      "grind": "中細挽き",
+      "dose": "12g",
+      "water_temp": "92°C",
+      "pour_speed": "普通",
+      "notes": "高地豆ならではの硬さを考慮し、しっかりとお湯を通して味を出し切ります。"
+    },
+    "description": "標高の高い山岳地帯で育った、身の詰まった豆。キャラメルのような甘さと程よい酸味のバランスは、地に足をつけたい時に。"
+  },
+  {
+    "id": "decaf-mexico",
+    "name": "メキシコ デカフェ (マウンテンウォーター)",
+    "origin": "メキシコ",
+    "roast_level": "深煎り",
+    "flavor_profile": {
+      "acidity": 1,
+      "bitterness": 4,
+      "sweetness": 3,
+      "body": 3,
+      "notes": [
+        "黒糖",
+        "優しい",
+        "カフェインレス",
+        "香ばしい"
+      ]
+    },
+    "vibe_tags": [
+      "sleep",
+      "healthy",
+      "night",
+      "gentle",
+      "rest",
+      "睡眠",
+      "健康",
+      "深夜",
+      "休息",
+      "おやすみ",
+      "デカフェ",
+      "眠い",
+      "夜中"
+    ],
+    "music_pairing": "Sleep / Ambient",
+    "spotify_id": "37i9dQZF1DWZd79rJ6a7lp",
+    "brewing_recipe": {
+      "method": "ペーパードリップ",
+      "grind": "やや細かめ",
+      "dose": "12g",
+      "water_temp": "90°C",
+      "pour_speed": "普通",
+      "notes": "デカフェは味が抜けやすいので、少し細かめに挽いてしっかりとコクを出します。"
+    },
+    "description": "カフェイン99.9%カット。でもコーヒーの美味しさはそのまま。眠れない夜や、体を休めたい時に飲む、優しい一杯。"
+  }
+]
