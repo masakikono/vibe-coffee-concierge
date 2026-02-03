@@ -7,6 +7,9 @@ import { CoffeeBean } from "@/lib/types";
 import { motion, AnimatePresence } from "framer-motion";
 import { Coffee, Sparkles, Search, Palette } from "lucide-react";
 import clsx from "clsx";
+import dynamic from "next/dynamic";
+
+const Map = dynamic(() => import("@/components/Map"), { ssr: false });
 
 const QUICK_VIBES = [
   "クリエイティブ",
@@ -190,6 +193,11 @@ export default function Home() {
             </div>
           </motion.div>
         )}
+
+        <div className="w-full mt-12 max-w-4xl">
+          <h2 className="text-2xl font-serif text-white/80 mb-4 text-center">Cafe Map (Beta)</h2>
+          <Map />
+        </div>
 
       </div>
     </main>
